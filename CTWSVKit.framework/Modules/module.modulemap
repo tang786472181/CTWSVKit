@@ -1,0 +1,6 @@
+framework module CTWSVKit {
+  umbrella header "CTWSVKit.h"
+
+  export *
+  module * { export * }
+}
